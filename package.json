@@ -22,5 +22,8 @@
     "url": "https://github.com/Wuild/vue-electron-ipc/issues"
   },
   "homepage": "https://github.com/Wuild/vue-electron-ipc#readme",
-  "dependencies": {}
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "uuid": "^3.3.2"
+  }
 }
