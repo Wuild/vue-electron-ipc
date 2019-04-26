@@ -2,6 +2,10 @@
 Custom IPC functions for electron and vue.  
 This package "hijacks" the default ipc classes from electron and adds its own event emitter wich provides callback functionallity
 
+## TODO
+* Write a better README
+* Add callbacks from main to renderer
+
 ## Installation
 ```
 npm install @wuild/vue-electron-ipc
