@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/Wuild/vue-electron-ipc/issues"
   },
-  "homepage": "https://github.com/Wuild/vue-electron-ipc#readme"
+  "homepage": "https://github.com/Wuild/vue-electron-ipc#readme",
+  "dependencies": {}
 }
