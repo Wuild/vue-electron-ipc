@@ -1,11 +1,25 @@
 {
   "name": "@wuild/vue-electron-ipc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Custom IPC functions for electron and vue.  \r This package \"hijacks\" the default ipc classes from electron and adds its own event emitter wich provides callback functionallity",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Wuild",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuild/vue-electron-ipc.git"
+  },
+  "keywords": [
+    "vue",
+    "electron",
+    "ipc",
+    "callback"
+  ],
+  "bugs": {
+    "url": "https://github.com/Wuild/vue-electron-ipc/issues"
+  },
+  "homepage": "https://github.com/Wuild/vue-electron-ipc#readme"
 }
