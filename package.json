@@ -1,6 +1,6 @@
 {
   "name": "@wuild/vue-electron-ipc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom IPC functions for electron and vue.  \r This package \"hijacks\" the default ipc classes from electron and adds its own event emitter wich provides callback functionallity",
   "main": "index.js",
   "scripts": {
